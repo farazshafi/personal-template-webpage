@@ -363,7 +363,7 @@ h3.heading:after {
     content: '';
     width: 10%;
     height: 3px;
-    background: #333;
+    background: rgb(255, 255, 255);
     left: 45%;
     bottom: -18%;
 }
