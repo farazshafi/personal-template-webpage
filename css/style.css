@@ -353,7 +353,7 @@ h3.agile_tittle.two {
 h3.heading {
     font-size: 45px;
     text-align: center;
-    color: #333;
+    color: #fff;
     font-weight: 600;
     letter-spacing: 5px;
 	position: relative;
@@ -647,7 +647,7 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
 }
 .contact-grids h4 {
     text-transform: capitalize;
-    color: #333;
+    color: #fff;
     font-size: 25px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -655,7 +655,7 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
 }
 .contact-left h5 {
     text-transform: capitalize;
-    color: #333;
+    color: #fff;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -665,14 +665,14 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
     line-height: 28px;
     letter-spacing: .5px;
     font-size: 15px;
-    color: #666;
+    color: #fff;
 }
 .contact-left p a:hover {
-    color: #000;
+    color: rgb(165, 165, 165);
 }
 .icon i {
     font-size: 20px;
-    color: #333;
+    color: #fff;
 }
 .contact-right input[type="text"], .contact-right input[type="email"], .contact-right textarea {
     outline: none;
@@ -680,7 +680,7 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
     padding: .9em 1em;
      font-size: 15px;
     letter-spacing: 1px;
-    color: #888;
+    color: #fff;
     border: none;
     border: 1px solid #777;
     background: none;
@@ -707,7 +707,7 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
 label {
     width: 17%;
     float: left;
-    color: #333;
+    color: #fff;
     font-weight: 600;
 }
 .contact-right textarea {
@@ -718,7 +718,7 @@ label {
 
 /*-- footer --*/
 footer {
-    background: #191919;
+    background: #000000;
 }
 .social ul li {
     display: inline-block;
@@ -1148,16 +1148,19 @@ footer {
 	
 }
 #img-person1{
-    margin-top: 80px;
-    opacity: 0.7;
+    margin-top: 192px;
+    opacity: 0.8;
 }
 #services{
     margin-top: -64px;
 }
 #img-person2{
-   opacity:0.9;
+   opacity:1;
 }
 .figure-projects{
     height: 170px;
     padding-top: 10px;
+}
+.instagram-fontawesom{
+    
 }
